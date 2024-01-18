@@ -1,0 +1,186 @@
+{
+  "uniquecmno": [
+    {
+      "CompNo": 1101,
+      "ActNo": "TNHU6410081101",
+      "id": 1
+    },
+    {
+      "Rid": 120,
+      "id": 2
+    }
+  ],
+  "aadhar": [
+    {
+      "id": 1,
+      "number": "950976867358",
+      "name": "Nagasundar",
+      "phone": "+919894147343"
+    },
+    {
+      "id": 2,
+      "number": "896024574955",
+      "name": "Shruthiga",
+      "phone": "+918667436234"
+    },
+    {
+      "id": 3,
+      "number": "858233718742",
+      "name": "Mohana Prasad",
+      "phone": "+919444250633"
+    },
+    {
+      "id": 4,
+      "number": "899549649967",
+      "name": "Felix",
+      "phone": "+918667436234"
+    },
+    {
+      "id": 5,
+      "number": "976118642218",
+      "name": "Maginesh",
+      "phone": "+918667436234"
+    },
+    {
+      "id": 6,
+      "number": "729906199341",
+      "name": "Nekha",
+      "phone": "+919444250633"
+    },
+    {
+      "id": 7,
+      "number": "629983727759",
+      "name": "Reshma",
+      "phone": "+919894147343"
+    }
+  ],
+  "gptData": {
+    "department": "Housing and Urban Affairs",
+    "summary": "Delayed construction of community park in Sivaganga",
+    "priority": 4,
+    "relateddepartments": [
+      "Urban Development"
+    ]
+  },
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "name": "Nagasundar",
+      "mobile": "9876543210",
+      "password": "12345"
+    }
+  ],
+  "department": [
+    {
+      "id": "APPAUTH01",
+      "name": "House and Urban Affairs",
+      "officer": "Dinesh Kapila",
+      "contact": "7667713123",
+      "email": "dineshkapil@auth.in",
+      "password": "12345"
+    },
+    {
+      "id": "TNPWD01",
+      "name": "TNPWD",
+      "officer": "Janath",
+      "contact": "9875214564",
+      "email": "janath@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "URBAN01",
+      "name": "Ministry Of Urban And Housing Affairs",
+      "password": "12345",
+      "officer": "Jayanth",
+      "contact": "8542657952",
+      "email": "jayanth@gmail.com"
+    },
+    {
+      "id": "URBAN02",
+      "name": "Housing and Urban Affairs",
+      "password": "12345",
+      "officer": "Jayanth",
+      "contact": "8542657952",
+      "email": "jayanth@gmail.com"
+    },
+    {
+      "id": "DEPT05",
+      "name": "Civil Aviation",
+      "password": "12345"
+    },
+    {
+      "id": "DEPT06",
+      "name": "Chemicals and Petrochemicals",
+      "password": "12345"
+    }
+  ],
+  "users": [
+    {
+      "name": "Felix",
+      "address": "SKCET,kuniyamuthur",
+      "locality": "Kuniyamuthur",
+      "pincode": "641008",
+      "mobileNumber": "8667436234",
+      "email": "727722eucs101@skcet.ac.in",
+      "gender": "Male",
+      "country": "India",
+      "district": "Coimbatore",
+      "state": "Tamilnadu",
+      "password": "12345",
+      "cpassword": "12345",
+      "id": 1
+    },
+    {
+      "name": "Maginesh",
+      "address": "SKCET,kuniyamuthur",
+      "locality": "Kuniyamuthur",
+      "pincode": "641008",
+      "mobileNumber": "7667792123",
+      "email": "727722eucs097@skcet.ac.in",
+      "gender": "Male",
+      "country": "India",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "password": "12345",
+      "cpassword": "12345",
+      "id": 2
+    }
+  ],
+  "appelate_authority": [
+    {
+      "name": "Dinesh Kapila",
+      "email": "dinesh.kapila@nic.in",
+      "password": "12345"
+    }
+  ],
+  "tnpwd": [
+    {
+      "name": "Mohan",
+      "email": "mohan.tnpwd@nic.in",
+      "password": "12345"
+    }
+  ],
+  "urbananddevelopmenteng": [
+    {
+      "name": "eng1",
+      "email": "eng1@ud.in",
+      "password": "12345"
+    },
+    {
+      "name": "eng2",
+      "email": "eng2@ud.in",
+      "password": "12345"
+    },
+    {
+      "name": "eng3",
+      "email": "eng3@ud.in",
+      "password": "12345"
+    },
+    {
+      "name": "eng4",
+      "email": "eng4@ud.in",
+      "password": "12345"
+    }
+  ]
+}
